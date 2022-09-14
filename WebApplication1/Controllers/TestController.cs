@@ -17,5 +17,13 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public ActionResult Test3()
+        {
+            return View();
+        }
+        public ActionResult SweatAlert()
+        {
+            return View();
+        }
     }
 }
